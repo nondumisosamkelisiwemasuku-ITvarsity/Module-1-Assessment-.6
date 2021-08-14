@@ -12,7 +12,7 @@
     
  h4{
         font-family: impact,fantasy;
-        font-size: 20px;
+        font-size: 30px;
         font-style:italic;
         color: cornflowerblue;
         text-align: center;
@@ -31,7 +31,7 @@ p{
 
 #menu a{
       color:#ffffff;
-      font-family: Helvetica, sans-serif;
+      font-family: helvetica, sans-serif;
       font-size: 18px;
       text-decoration:none;
       font-weight: 800;
